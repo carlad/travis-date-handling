@@ -23,7 +23,7 @@ sudo date -s '2016-08-09 11:59:37' '+%F %T'
 sudo date -s '2016-08-09 11:59:38' '+%F %T'
 sudo date -s '2016-08-09 11:59:39' '+%F %T'
 sleep 3
-sudo date -s 2016-08-09 11:59:40 +%F %T
+sudo date -s '2016-08-09 11:59:40' '+%F %T'
 echo "date is now " $(date)
 
 exit 0
