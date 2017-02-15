@@ -28,7 +28,7 @@ sudo date -s '2016-08-09 11:59:30' '+%F %T'
 echo "date is now " $(date)
 sudo date -s '2016-08-09 11:59:31' '+%F %T'
 echo "date is now " $(date)
-sudo date -s '2016-08-09 11:59:40' '+%F %T'
+echo "////////"
 
 echo "date is now " $(date)
 
